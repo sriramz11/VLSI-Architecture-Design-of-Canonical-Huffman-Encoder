@@ -1,0 +1,327 @@
+m255
+K3
+z0
+!s11f MIXED_VERSIONS
+13
+cModel Technology
+dE:\Nxfee_RTL_2019\A High Throughput Hardware Accelerator for Lossless Compression of a DDR4 Command Trace\Simulate_Huffman_Machine
+vBitmapping
+Z0 !s110 1715285974
+!i10b 1
+!s100 4dAjfk3EVC<ej0HZ1d<Kg0
+IXM1]OkEC86eKLYGP;83Dz0
+Z1 dC:/Users/07har/Downloads/Simulate_Huffman_Machine
+w1656312073
+8Bitmapping.v
+FBitmapping.v
+!i122 77
+L0 4 168
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 OV;L;2021.1;73
+r1
+!s85 0
+31
+Z4 !s108 1715285974.000000
+!s107 Bitmapping.v|
+!s90 -reportprogress|300|-work|work|Bitmapping.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@bitmapping
+vCanonical_Huffman_Machine
+R0
+!i10b 1
+!s100 GIW>l3ZK=zVf5EKg1ldc13
+I07ZXY:?O9kU^1A@WnWhe82
+R1
+w1656330677
+8Canonical_Huffman_Machine.v
+FCanonical_Huffman_Machine.v
+!i122 79
+L0 4 85
+R2
+R3
+r1
+!s85 0
+31
+R4
+!s107 Canonical_Huffman_Machine.v|
+!s90 -reportprogress|300|-work|work|Canonical_Huffman_Machine.v|
+!i113 1
+R5
+R6
+n@canonical_@huffman_@machine
+vCode_Table
+R0
+!i10b 1
+!s100 ALgLzA=W=inM>@iYdJ7ER1
+Ia4ZCnC<[lc@gTDGH>@2bH3
+R1
+w1667575426
+8Code_Table.v
+FCode_Table.v
+!i122 78
+L0 4 124
+R2
+R3
+r1
+!s85 0
+31
+R4
+!s107 Code_Table.v|
+!s90 -reportprogress|300|-work|work|Code_Table.v|
+!i113 1
+R5
+R6
+n@code_@table
+vfile_reading
+Z7 !s110 1715285973
+!i10b 1
+!s100 6Y4:jB4M]OBK[9J6?447P2
+I:V5f1WHBOQO@kP2iR<_AO2
+R1
+Z8 w1583411134
+Z9 8file_reading.v
+Z10 Ffile_reading.v
+!i122 72
+L0 3 148
+R2
+R3
+r1
+!s85 0
+31
+Z11 !s108 1715285973.000000
+Z12 !s107 file_reading.v|
+Z13 !s90 -reportprogress|300|-work|work|file_reading.v|
+!i113 1
+R5
+R6
+Xfile_reading_v_unit
+Z14 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+R7
+V@lW8Pa9giU52zT;2m?QXa1
+r1
+!s85 0
+!i10b 1
+!s100 jBEkz0iS:Q4Xz]SoXT:GX1
+I@lW8Pa9giU52zT;2m?QXa1
+!i103 1
+S1
+R1
+R8
+R9
+R10
+!i122 72
+L0 150 0
+R3
+31
+R11
+R12
+R13
+!i113 1
+R5
+R6
+vfile_writing
+R7
+!i10b 1
+!s100 0fM4?D55i`^aPjD2B::Di2
+I[oFo_?79LYU1ol80B:i_g2
+R1
+w1583325200
+8file_writing.v
+Ffile_writing.v
+!i122 73
+Z15 L0 4 56
+R2
+R3
+r1
+!s85 0
+31
+R11
+!s107 file_writing.v|
+!s90 -reportprogress|300|-work|work|file_writing.v|
+!i113 1
+R5
+R6
+vFrequency_count
+R0
+!i10b 1
+!s100 bSMFB3cfPPZ@>6OAgJ^K`1
+I>KR^L42n_cY78O`j7XU932
+R1
+w1708775717
+8Frequency_count.v
+FFrequency_count.v
+!i122 75
+L0 4 130
+R2
+R3
+r1
+!s85 0
+31
+R11
+!s107 Frequency_count.v|
+!s90 -reportprogress|300|-work|work|Frequency_count.v|
+!i113 1
+R5
+R6
+n@frequency_count
+vHuffman_Back_Part
+In6TLzSXBEm^ddDV852OB<1
+VOi5bbo;gLMm98AA:09XkO2
+Z16 dE:\NXFEE_RTL_2022\A High Throughput VLSI Architecture Design of Canonical Huffman Encoder\Simulate_Huffman_Machine
+w1583420853
+8Huffman_Back_Part.v
+FHuffman_Back_Part.v
+L0 4
+Z17 OV;L;6.5b;42
+r1
+31
+Z18 o-work work -O0
+n@huffman_@back_@part
+!s100 McQhQjef8Qih]SZa;VZTW2
+!s85 0
+!s101 -O0
+vHuffman_Buffer
+R7
+!i10b 1
+!s100 h2Ph:nkeRb?;15o0eB9]d3
+IYNk=`J^d1@2kjYZCfBQ2K0
+R1
+w1708775441
+8Huffman_Buffer.v
+FHuffman_Buffer.v
+!i122 74
+L0 4 54
+R2
+R3
+r1
+!s85 0
+31
+R11
+!s107 Huffman_Buffer.v|
+!s90 -reportprogress|300|-work|work|Huffman_Buffer.v|
+!i113 1
+R5
+R6
+n@huffman_@buffer
+vHuffman_Front_Part
+Ik^Y6MVn<zRdDnUdG::2Rb2
+VozS?AaW`D12M56^C;A7LN0
+R16
+w1583405770
+8Huffman_Front_Part.v
+FHuffman_Front_Part.v
+L0 4
+R17
+r1
+31
+R18
+n@huffman_@front_@part
+!s100 Mgci68KnTKCLPjMaK9]<J1
+!s85 0
+!s101 -O0
+vHuffman_Machine
+I?BQici=BTJ8bYbfZZbFIP2
+VShU70>B?OQe@Ta6bz8gPN3
+R16
+w1583420906
+8Huffman_Machine.v
+FHuffman_Machine.v
+L0 4
+R17
+r1
+31
+R18
+n@huffman_@machine
+!s100 4SEK`1]3KZQ=neGR]9Wc;1
+!s85 0
+!s101 -O0
+vSorting
+R0
+!i10b 1
+!s100 86:=]n3ke`E`a8_J^dN5B1
+IgAEBg03HEW_?bbm[7CY`Q1
+R1
+w1583387252
+8Sorting.v
+FSorting.v
+!i122 76
+L0 4 105
+R2
+R3
+r1
+!s85 0
+31
+R4
+!s107 Sorting.v|
+!s90 -reportprogress|300|-work|work|Sorting.v|
+!i113 1
+R5
+R6
+n@sorting
+vtb_Canonical_Huffman_Machine
+R0
+!i10b 1
+!s100 GfXWkKVFcObfRJ_mWW[U=2
+I_RegZGXEBD0A:34^lJ;Yj0
+R1
+Z19 w1656330690
+Z20 8tb_Canonical_Huffman_Machine.v
+Z21 Ftb_Canonical_Huffman_Machine.v
+!i122 80
+R15
+R2
+R3
+r1
+!s85 0
+31
+R4
+!s107 tb_Canonical_Huffman_Machine.v|
+Z22 !s90 -reportprogress|300|-work|work|tb_Canonical_Huffman_Machine.v|
+!i113 1
+R5
+R6
+ntb_@canonical_@huffman_@machine
+Xtb_Canonical_Huffman_Machine_v_unit
+R14
+R0
+VHWzMZhZPXJP:h[4nn:7Z82
+r1
+!s85 0
+!i10b 1
+!s100 0l19d8[M<lCF34Dd2GJHk3
+IHWzMZhZPXJP:h[4nn:7Z82
+!i103 1
+S1
+R1
+R19
+R20
+R21
+!i122 80
+L0 59 0
+R3
+31
+R4
+Z23 !s107 tb_Canonical_Huffman_Machine.v|
+R22
+!i113 1
+R5
+R6
+ntb_@canonical_@huffman_@machine_v_unit
+vtb_Huffman_Machine
+IzRDB=7eocmALASZV5On@l1
+VDf;n3P0=S2YBh7BhY3@W33
+R16
+w1583422770
+8tb_Huffman_Machine.v
+Ftb_Huffman_Machine.v
+L0 4
+R17
+r1
+31
+R18
+ntb_@huffman_@machine
+!s100 z5kh6lzC:kfBcB_^EhjSW1
+!s85 0
+!s101 -O0
